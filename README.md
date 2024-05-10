@@ -32,3 +32,24 @@ Compares the average salaries across different employment types (e.g., full-time
 **Conclusion**
 
 This Power BI analysis offers valuable insights into employee salaries based on various factors such as job title, work year, and employment type. The visualizations provided enable stakeholders to make informed decisions regarding compensation strategies and resource allocation.
+
+**Task 2: Unemployment Analysis in India**
+
+**Overview:**
+
+This project aims to analyze unemployment data across different states in India using Python. The dataset used includes estimated unemployment rates, estimated employment figures, and segmentation between rural and urban areas.
+
+**Insights:**
+
+Insights
+
+**State-wise Unemployment Rates:**
+
+Analyze the unemployment rates across different states to identify regions with higher unemployment rates.
+
+**Rural vs. Urban Employment:**
+
+Analyzing the distribution of employment and unemployment between rural and urban areas will shed light on the disparities in job opportunities.
+It will help in devising strategies to bridge the rural-urban employment gap and promote balanced economic development.
+
+
